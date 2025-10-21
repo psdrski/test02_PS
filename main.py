@@ -1,1 +1,1 @@
-print("hello geodezja")
+print("hello geodezja z watu")
