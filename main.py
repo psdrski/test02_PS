@@ -1,1 +1,1 @@
-print("hello geoinfa z watu")
+print("hello geoinfa")
